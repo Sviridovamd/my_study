@@ -1,2 +1,2 @@
 my study
-https://www.codewars.com/users/Mashuniik/badges/micro
+https://www.codewars.com/users/Mashuniik
